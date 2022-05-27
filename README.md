@@ -29,3 +29,18 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Want detailed explanation of Heroku Deployment? [Click Here]( you can create emo deckstop bot )
+  
+  
+## 🏷 Support
+
+Reach out to the maintainer at one of the following places:
+
+- Contact options listed on [this GitHub profile](https://github.com/RishBropromax/Emo-Deckstop-Bot))
+- [Telegram Support](https://t.me/emodeckstopbotsupport)
+  
+  ## ⚠️ Security
+
+Emo DecksTop Bot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
+
+For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
+
