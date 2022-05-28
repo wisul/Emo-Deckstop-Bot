@@ -36,7 +36,7 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 Reach out to the maintainer at one of the following places:
 
 - Contact options listed on [this GitHub profile](https://github.com/RishBropromax/Emo-Deckstop-Bot))
-- [Telegram Support](https://t.me/emodeckstopbotsupport)
+- [Telegram Support](https://t.me/Emo_Bot_Support)
   
   ## ⚠️ Security
 
