@@ -54,25 +54,18 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 ## 🖇 Generating Pyrogram String Session
 
 - Generate a Pyrogram String Session via [Starting Season Bot to get the starting season at the top of the starting season bar in Heroku)
-<br><h2>"center"Sorry Guys My Pyrogram String Session is very Slow. You Can Use This bot get In String Session 
+<br><h2>"center"Sorry Guys My Pyrogram String Session is very Slow. You Can Use This bot get In String Session Click Robot picture
  
-<p align="center"><a href="https://t.me/StringFatherBot"> <img src="https://telegra.ph/file/f1cee46fa36d5684030b6.jpg" width="200" height="35.45"/></a></p>a>
+<p align="center"><a href="https://t.me/StringFatherBot"> <img src="https://telegra.ph/file/f1cee46fa36d5684030b6.jpg" width="200" height="35.45"/></a></p>
     
-    
-    
-    
- <p align="center"><a href="https://replit.com/@ImRishmika/Emo-Deckstop-Bot-Generating-Pyrogram-String-Session"> <img src="https://camo.githubusercontent.com/ed88043d35f9639b195970d32ed1e93f5bd1445ae55bc8f0bf27f3b5574cf4e9/68747470733a2f2f7265706c69742e636f6d2f62616467652f6769746875622f5465616d556c74726f69642f556c74726f6964" width="200" height="35.45"/></a></p>a>
-
-
+     <p align="center"><a href="https://replit.com/@ImRishmika/Emo-Deckstop-Bot-Generating-Pyrogram-String-Session"> <img src="https://camo.githubusercontent.com/ed88043d35f9639b195970d32ed1e93f5bd1445ae55bc8f0bf27f3b5574cf4e9/68747470733a2f2f7265706c69742e636f6d2f62616467652f6769746875622f5465616d556c74726f69642f556c74726f6964" width="200" height="35.45"/></a></p>
 
 
 <h2 align="center">  🚀 Heroku Deployment </h2>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRishBropromax%2FEmo-Deckstop-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>a>
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRishBropromax%2FEmo-Deckstop-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 > Want detailed explanation of Heroku Deployment? [Click Here]( you can create emo deckstop bot )
   
-  
-## 🏷 Support
+  ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
 
