@@ -54,6 +54,8 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 ## 🖇 Generating Pyrogram String Session
 
 - Generate a Pyrogram String Session via [Starting Season Bot to get the starting season at the top of the starting season bar in Heroku)
+<p align="center"><a href="https://replit.com/@ImRishmika/Emo-Deckstop-Bot-Generating-Pyrogram-String-Session"> <img src="https://camo.githubusercontent.com/ed88043d35f9639b195970d32ed1e93f5bd1445ae55bc8f0bf27f3b5574cf4e9/68747470733a2f2f7265706c69742e636f6d2f62616467652f6769746875622f5465616d556c74726f69642f556c74726f6964" width="200" height="35.45"/></a></p>a>
+
 
 
 
