@@ -17,6 +17,39 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 - [MongoDB URI](https://mongodb.com)
 - [Pyrogram String Session](no starting sission)
 
+<h2 align="center"> Features 🔥 </h2> 
+<ul>
+    <li>Supports Audio & Video Play</li>
+    <li>Supports Live Stream</li>
+    <li>Inline Buttons Supported</li>
+    <li>Commands Cleaner</li>
+    <li>Fast & Smooth</li>
+    <li>Maintained</li>
+    <li>Less environment variables</li>
+</ul>
+
+<h2 align="center"> Requirements 📝 </h2>
+
+- Pyrogram
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.7 or higher
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
+<h2 align="center"> Commands 🛠 </h2>
+
+- `/play <song name>` - play song you requested
+- `/vplay <song name>` - play video song you requested
+- `/stream <yt link>` - starts streaming live audio
+- `/vstream <yt link>` - starts streaming live video
+- `/ping` - Bot Online or Offine
+
+<h4 align="center"> Admins Only 👷‍♂️ </h4>
+
+- `/pause` - pause song play
+- `/resume` - resume song play
+- `/skip` - play next song
+- `/end` - stop music play
+
 
 ## 🖇 Generating Pyrogram String Session
 
