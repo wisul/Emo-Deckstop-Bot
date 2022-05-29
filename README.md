@@ -61,7 +61,7 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
   <p align="center"><a href="https://t.me/StringFatherBot"> <img src="https://telegra.ph/file/f1cee46fa36d5684030b6.jpg" width="200" height="35.45"/></a></p>
     
      
-    
+  ## Riplit Generating Pyrogram String Session👇👇
     <p align="center"><a href="https://replit.com/@ImRishmika/Emo-Deckstop-Bot-Generating-Pyrogram-String-Session"> <img src="https://camo.githubusercontent.com/ed88043d35f9639b195970d32ed1e93f5bd1445ae55bc8f0bf27f3b5574cf4e9/68747470733a2f2f7265706c69742e636f6d2f62616467652f6769746875622f5465616d556c74726f69642f556c74726f6964" width="200" height="35.45"/></a></p>
 
 
@@ -75,5 +75,7 @@ Reach out to the maintainer at one of the following places:
 
 - Contact options listed on [this GitHub profile](https://github.com/RishBropromax/Emo-Deckstop-Bot))
 - [Telegram Support](https://t.me/Emo_Bot_Support)
+    
+    <h2>Thanks for using my repo. Send me the faults and shortcomings of this repo via telegram. Or add it to my support group👊👊
   
  
