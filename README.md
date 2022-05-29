@@ -22,9 +22,9 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 
 - Generate a Pyrogram String Session via [Starting Season Bot to get the starting season at the top of the starting season bar in Heroku)
 
-## 🚀 Heroku Deployment
 
-<h2 align="center"> Deploy To Heroku </h2>
+
+<h2 align="center">  🚀 Heroku Deployment </h2>
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRishBropromax%2FEmo-Deckstop-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>a>
 
 > Want detailed explanation of Heroku Deployment? [Click Here]( you can create emo deckstop bot )
