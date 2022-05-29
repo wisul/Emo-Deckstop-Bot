@@ -1,7 +1,6 @@
 # Emo-Deckstop-Bot
 This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
-* i add Yukki Repo And THe hamercat Repo And Logo MAking Repo.
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
 * Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
@@ -21,7 +20,7 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [no starting sission)
+- Generate a Pyrogram String Session via [Starting Season Bot to get the starting season at the top of the starting season bar in Heroku)
 
 ## 🚀 Heroku Deployment
 
