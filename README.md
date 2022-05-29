@@ -26,7 +26,7 @@ This is Powerful Telegram Music+Video Bot written in Python using Pyrogram and P
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Emo Deckstop Bot on Heroku!</h4>    
-<a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="[https://heroku.com/deploy/](https://dashboard.heroku.com/new?template=https://github.com/Captainamarica/NightVission-Streamer-0.1)"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Want detailed explanation of Heroku Deployment? [Click Here]( you can create emo deckstop bot )
   
