@@ -60,7 +60,7 @@ HELP_TEXT = """<b>» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «</b>
 » /join or /userbotjoin : ʀᴇǫᴜᴇsᴛs ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴛᴏ ᴊᴏɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ.
 » /restart : ʀᴇsᴛᴀʀᴛs ᴛʜᴇ ʙᴏᴛ.
 
-🥵 <b><u>ᴍᴀᴅᴇ ʙʏ @imRishmika</u></b> 🥵"""
+🥵 <b><u>ᴍᴀᴅᴇ ʙʏ @wisula4</u></b> 🥵"""
 
 START_IMG = "https://telegra.ph/file/dd1f06997c722ce74d700.jpg"
 
@@ -68,14 +68,14 @@ START_BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                        "🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🥺", url="https://t.me/fallen_music_bot?startgroup=true")
+                        "🔥 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🔥", url="https://t.me/wisula999bot?startgroup=true")
         ],
         [   
-            InlineKeyboardButton("🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id=1356469075),
-            InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/Emo_bot_Support")
+            InlineKeyboardButton("🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id=5246051676"),
+            InlineKeyboardButton("✌️ sᴜᴩᴩᴏʀᴛ​ ✌️", url=f"https://t.me/Emo_bot_Support")
         ],
         [
-            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://github.com/Rishbropromax/Emo-Deckstop-Bot")
+            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://github.com/wisul")
         ]
     ]
 )
