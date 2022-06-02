@@ -41,7 +41,7 @@ SUPPORT = os.environ["SUPPORT"]
 LIVE_CHATS = []
 
 START_TEXT = """<b>ʜᴇʏ {},</b> 🖤
-   🥀 <b>ᴛʜɪs ɪs Emo Deckstop bot.</b>
+   🥀 <b>ᴛʜɪs ɪs wisula bot.</b>
 
 <b>ᴀ ғᴀsᴛ & ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ's ᴠɪᴅᴇᴏᴄʜᴀᴛs.</b>
 
@@ -62,7 +62,7 @@ HELP_TEXT = """<b>» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «</b>
 
 🥵 <b><u>ᴍᴀᴅᴇ ʙʏ @wisula4</u></b> 🥵"""
 
-START_IMG = "https://telegra.ph/file/dd1f06997c722ce74d700.jpg"
+START_IMG = "https://telegra.ph/file/c6c672ffe06f8a2313c08.jpg"
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
